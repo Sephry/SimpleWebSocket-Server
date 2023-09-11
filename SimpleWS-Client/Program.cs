@@ -26,9 +26,6 @@ var reciveTask = Task.Run(async () =>
 await reciveTask;
 
 
-
-// ÇOKLU WEBSOCKET CLİENT
-
 /*
 string name;
 
